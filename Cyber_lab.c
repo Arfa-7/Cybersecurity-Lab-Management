@@ -46,4 +46,3 @@ int main() {
     printf("Total Lab Investment: %.2f\n", totalInvestment);
     return 0;
 }
-}
