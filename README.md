@@ -20,7 +20,7 @@ Network Cost = Number of Network Devices × Cost per Device
 Total Lab Investment = Computer Cost + Network Cost + Software Cost
 
 ## Output
-Formatted cybersecurity lab report
+
 
 ## How to Compile
 gcc Cyber_lab.c -o cyber_lab
