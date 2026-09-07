@@ -20,6 +20,20 @@ Network Cost = Number of Network Devices × Cost per Device
 Total Lab Investment = Computer Cost + Network Cost + Software Cost
 
 ## Output
+------------------------
+CYBERSECURITY LAB REPORT
+------------------------
+Lab Name           : Cyber Security Lab
+Computers          : 30
+Network Devices    : 8
+Security Tools     : 12
+
+Computer Cost      : 90000000.00
+Network Device Cost: 3200000.00
+Software Cost      : 500000.00
+
+Total Lab Investment: 93700000.00
+
 
 
 ## How to Compile
